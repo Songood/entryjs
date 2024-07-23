@@ -11,6 +11,7 @@ Entry.whalesbot_1s = {
         ko: '웨일스봇 1S',
         en: 'Whalesbot 1S',
     },
+    
     setZero(){
         // 초기화
         Entry.hw.update();
